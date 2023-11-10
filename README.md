@@ -1,1 +1,1 @@
-# Lab6
+# class Lab6
